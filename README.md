@@ -24,10 +24,9 @@ It implements:
 
 ## 🌍 Architecture Overview
 
-```
+
 ![images/infrastructure_diagram.png](images/infrastructure_diagram.png)
 
-```
 
 - Multi-region setup across `us-east-1` and  `us-west-1` region.
 - Resources organized in tiers: Web → App → DB.
